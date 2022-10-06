@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.153">
+<testcase classname="Verifying Adactin login details" name="Verifying adactin login details with valid credentials" time="0.075">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given User is on the adactin page...........................................passed
+When User should login with mandatory fields "DineshShanmugam123" and "Dinesh123".undefined
+Then User should verify after login success msg.............................skipped
+]]></failure>
+</testcase>
+</testsuite>
